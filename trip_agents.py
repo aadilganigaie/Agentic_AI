@@ -7,12 +7,12 @@ from weasyprint import HTML
 import os
 
 # Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = "sk-proj-1111"
+os.environ["OPENAI_API_KEY"] = "ANY KEY"
 
 # Define the LLM configuration
 llm = ChatOpenAI(
     model='ollama/llama3.2',
-    base_url='https://192.168.0.10:9090/',
+    base_url='YOUR END POINT',
     provider='ollama'
 )
 
