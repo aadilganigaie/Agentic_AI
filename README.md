@@ -2,6 +2,9 @@
 
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/1a21e5c2-015d-4be3-9a53-3c74e90d946d">
 
+![image](https://github.com/user-attachments/assets/6aea8a97-a927-4357-9c2e-d08ed9613b17)
+
+![image](https://github.com/user-attachments/assets/287157c9-8856-4389-98d3-aa9405c6fb0f)
 
 # Overview
 Make My Trip is an innovative project that leverages the CrewAI framework to automate and enhance the trip planning experience. This project integrates a user-friendly Streamlit interface, demonstrating how autonomous AI agents can collaborate and execute complex tasks efficiently. Unlike other approaches that use closed-source Large Language Models (LLMs), Make My Trip utilizes the open-source LLama3.2 model, ensuring transparency and accessibility.
